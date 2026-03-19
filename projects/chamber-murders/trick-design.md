@@ -1,4 +1,4 @@
-# 《密室杀人事件》— 核心谜团架构
+# 《Ravenwood Silence》— 核心谜团架构
 
 > `/trick` 阶段输出 · 密室推理型 · 诡计优先路线
 > 参考：clue-design.md / red-herring.md / twist-design.md / knowledge-state.md

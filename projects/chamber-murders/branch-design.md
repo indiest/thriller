@@ -1,4 +1,4 @@
-# 《密室杀人事件》— 故事分支设计
+# 《Ravenwood Silence》— 故事分支设计
 
 > `/branches` 阶段输出 · 8 章 · 密室推理型交互式惊悚
 > 参考：branch-architecture.md · choice-design.md · state-management.md

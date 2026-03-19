@@ -1,4 +1,4 @@
-# 《密室杀人事件》— 叙事结构设计
+# 《Ravenwood Silence》— 叙事结构设计
 
 > `/structure` 阶段输出 · 短篇 8 章 · 密室推理型
 > 参考：mystery-structure.md · pacing-tension.md · subtype-beatsheets.md

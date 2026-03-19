@@ -1,4 +1,4 @@
-# 《密室杀人事件》— 主题设计
+# 《Ravenwood Silence》— 主题设计
 
 > 短篇模式：/start + /theme 合并执行
 

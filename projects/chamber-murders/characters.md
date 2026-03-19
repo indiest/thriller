@@ -1,4 +1,4 @@
-# 《密室杀人事件》— 角色系统设计
+# 《Ravenwood Silence》— 角色系统设计
 
 > `/characters` 阶段输出 · 极简阵容（6人）· 短篇密室推理
 > 参考：character-archetype.md · Corbett 动机罗盘 · Truby 伪盟友理论
